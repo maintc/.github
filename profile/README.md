@@ -3,7 +3,7 @@
 **Zero pay-to-win Rust Community**
 
 ## Who We Are
-We're the Rust community for nakeds, chads, beamers, farmers, electricians, solos, groups, builders, rats, gamblers, grubs, and bow kids. If you survive on the island, you belong here.
+We're the [Rust](https://rust.facepunch.com/) community for nakeds, chads, beamers, farmers, electricians, solos, groups, builders, rats, gamblers, grubs, and bow kids. If you survive on the island, you belong here.
 
 ## What We Run
 - Vanilla and modded servers with various wipe schedules
