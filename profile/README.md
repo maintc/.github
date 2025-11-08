@@ -24,6 +24,9 @@ We're the Rust community for nakeds, chads, beamers, farmers, electricians, solo
 - Patreon: https://www.patreon.com/mainloot
 
 ## Technical Stack
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?logo=ansible&logoColor=white)
 ![Discord](https://img.shields.io/discord/1221306476438749266?label=Discord&logo=discord)
 ![Rust](https://img.shields.io/badge/game-Rust-EC1C24?logo=facepunch)
 
