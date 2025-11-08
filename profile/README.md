@@ -12,6 +12,7 @@ We're the Rust community for nakeds, chads, beamers, farmers, electricians, solo
 
 ## What We Build
 - **Our Servers** – Orchestrated with Ansible, we're quick to deploy and reliable on wipe day
+- **Our Website** – Get real-time information on our servers, policies, and links to our socials
 - **rustmaps-cli** – Command-line tools for Rust map generation and analysis
 - **Custom Carbon plugins** – Server-side mods that keep gameplay fair and engaging
 
