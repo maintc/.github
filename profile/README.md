@@ -32,6 +32,7 @@ We're the Rust community for nakeds, chads, beamers, farmers, electricians, solo
 ![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?logo=ansible&logoColor=white)
 ![Discord](https://img.shields.io/discord/1221306476438749266?label=Discord&logo=discord)
+![Youtube](https://img.shields.io/youtube/channel/subscribers/UCKKwY2gdwktYk43Y57xb9Ww?style=social)
 ![Rust](https://img.shields.io/badge/game-Rust-EC1C24?logo=facepunch)
 
 ---
