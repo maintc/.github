@@ -25,7 +25,7 @@ We're the Rust community for nakeds, chads, beamers, farmers, electricians, solo
 
 ## Technical Stack
 ![Discord](https://img.shields.io/discord/1221306476438749266?label=Discord&logo=discord)
-![Rust](https://img.shields.io/badge/game-Rust-CE422B?logo=rust)
+![Rust](https://img.shields.io/badge/game-Rust-EC1C24?logo=facepunch)
 
 ---
 
