@@ -1,6 +1,6 @@
-# 🦾 MAINLOOT
+![](https://mainloot.s3.us-west-2.amazonaws.com/Mainloot_Logo_OnBlack.png)
 
-**Zero pay-to-win bullshit.**
+**Zero pay-to-win Rust Community**
 
 ## Who We Are
 We're the Rust community for nakeds, chads, beamers, farmers, electricians, solos, groups, builders, rats, gamblers, grubs, and bow kids. If you survive on the island, you belong here.
@@ -11,6 +11,7 @@ We're the Rust community for nakeds, chads, beamers, farmers, electricians, solo
 - Aim training/minigames server (FFA and Gun Game modes)
 
 ## What We Build
+- **Our Servers** – Orchestrated with Ansible, we're quick to deploy and reliable on wipe day
 - **rustmaps-cli** – Command-line tools for Rust map generation and analysis
 - **Custom Carbon plugins** – Server-side mods that keep gameplay fair and engaging
 
@@ -23,7 +24,7 @@ We're the Rust community for nakeds, chads, beamers, farmers, electricians, solo
 - Patreon: https://www.patreon.com/mainloot
 
 ## Technical Stack
-![Discord](https://img.shields.io/discord/YOUR_DISCORD_ID?label=Discord&logo=discord)
+![Discord](https://img.shields.io/discord/1221306476438749266?label=Discord&logo=discord)
 ![Rust](https://img.shields.io/badge/game-Rust-CE422B?logo=rust)
 
 ---
