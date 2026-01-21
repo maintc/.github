@@ -11,7 +11,7 @@ We're the [Rust](https://rust.facepunch.com/) community for nakeds, chads, beame
 - Aim training/minigames server (FFA and Gun Game modes)
 - Limited-time community events that are themed/seasonal
   - [Breaking Bad](https://www.youtube.com/watch?v=TyXtSDHvriU) with [Luis Moncada](https://www.twitch.tv/luis_moncada_)
-  - [Costa Rica](https://www.youtube.com/watch?v=_CxYEk-MX-M) and [Halloween](https://www.youtube.com/watch?v=G80Wa8wi8Lo) with [imPheetus](https://www.twitch.tv/impheetus)
+  - [Costa Rica](https://www.youtube.com/watch?v=_CxYEk-MX-M), [Halloween '25](https://www.youtube.com/watch?v=G80Wa8wi8Lo), and [Christmas '25](https://www.youtube.com/watch?v=IDuu3evUgFQ) with [imPheetus](https://www.twitch.tv/impheetus)
 
 ## What We Build
 - **Our Servers** – Orchestrated with Ansible, we're quick to deploy and reliable on wipe day
